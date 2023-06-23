@@ -11,7 +11,7 @@ This is my first project in Web Development so obviously it is not perfect. But 
 
 **Instruction for Use**
 
-To view the webiste go here: SuwillWD.github.io/odin-recipes
+To view the webiste [go here](https://suwillwd.github.io/odin-recipes)
 
 **Credits**
 
